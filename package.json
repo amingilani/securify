@@ -1,0 +1,14 @@
+{
+  "name": "passphrase",
+  "version": "1.0.0",
+  "description": "Make a secure passphrase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amin Shah Gilani <aminshahgilani@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bitcore-mnemonic": "^0.12.0"
+  }
+}
